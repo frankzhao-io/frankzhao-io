@@ -7,5 +7,6 @@ AI for Science, Multimodal Systems & Software Engineering Portfolio.
 | Project | Domain | Status | Highlights |
 | :--- | :--- | :--- | :--- |
 | [grounded-chart-audit](https://github.com/frankzhao-io/grounded-chart-audit) | AI4Science / VLM | Active | Two-stage Bidirectional Grounded Hybrid chart–text statistical auditor (`F1 = 0.9899`, local `Qwen2.5-VL-7B` vs. `Gemini 3.5 Flash-Lite`, 78 open-access papers audited) |
+| [agent-handoff-gate](https://github.com/frankzhao-io/agent-handoff-gate) | Multi-Agent Reliability | Active | Bidirectional epistemic handoff gating (`Pass@1 = 89.58%` local 7B / `100%` Gemini, `FCR = 0.00`, validated on `InfiAgent-DABench`) |
 
 <!-- Add new research repositories as rows above as your portfolio grows -->
